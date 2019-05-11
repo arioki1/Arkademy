@@ -8,7 +8,7 @@
 //print_r(is_username_valid("yog.yoga"));
 
 
-print_r(is_email_valid("akudia|@kamu.com"));
+print_r(is_email_valid("akudia@kamu.com"));
 
 function is_username_valid ($username){
 
